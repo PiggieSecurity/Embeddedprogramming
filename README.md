@@ -1,7 +1,7 @@
 # XRproject
  
 ## my first project for dkit
-[my other repos]((https://github.com/PiggieSecurity))
+[my other repos](https://github.com/PiggieSecurity)
 
 
 this is my readme file,
